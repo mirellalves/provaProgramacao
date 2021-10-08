@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\bin\Debug\ProvaLinguagemProgramacao.exe.config
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\bin\Debug\ProvaLinguagemProgramacao.exe
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\bin\Debug\ProvaLinguagemProgramacao.pdb
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.Form1.resources
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.Properties.Resources.resources
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.exe
+C:\Users\User\source\repos\ProvaLinguagemProgramacao\ProvaLinguagemProgramacao\obj\Debug\ProvaLinguagemProgramacao.pdb
